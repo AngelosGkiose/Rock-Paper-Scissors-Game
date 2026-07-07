@@ -20,5 +20,5 @@ The player competes against the computer by choosing rock, paper, or scissors. T
 - While loops
 - Conditional statements
 - Lists
-- Python `random` module
+- Python random module
 - Input validation  
